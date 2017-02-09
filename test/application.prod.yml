@@ -1,0 +1,11 @@
+org.hbsp.cl:
+    keyone: prod-value
+    keytwo: prod3
+    number: 3
+
+foo.bar:
+    group: prod
+    index: 0
+    url: http://prod.test.com
+    email: prod@foo.bar
+    enabled: false

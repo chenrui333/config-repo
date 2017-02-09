@@ -1,0 +1,11 @@
+org.hbsp.cl:
+    keyone: qa-value
+    keytwo: qa1
+    number: 1
+
+foo.bar:
+    group: qa
+    index: 1
+    url: http://qa.test.com
+    email: qa@foo.bar
+    enabled: true

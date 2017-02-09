@@ -1,0 +1,11 @@
+org.hbsp.cl:
+    keyone: stg-value
+    keytwo: stg
+    number: 2
+
+foo.bar:
+    group: stg
+    index: 0
+    url: http://stg.test.com
+    email: stg@foo.bar
+    enabled: false

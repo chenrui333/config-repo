@@ -1,0 +1,11 @@
+org.hbsp.cl:
+    keyone: dev-value
+    keytwo: dev
+    number: 0
+
+foo.bar:
+    group: dev
+    index: 0
+    url: http://dev.test.com
+    email: dev@foo.bar
+    enabled: true
